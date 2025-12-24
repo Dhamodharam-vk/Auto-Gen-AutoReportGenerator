@@ -1,4 +1,5 @@
 Auto-Gen AutoReportGenerator 🤖📊
+
 An automated intelligence system built with AutoGen and RAG (Retrieval-Augmented Generation) to analyze data, generate visualizations, and send comprehensive marketing and sales reports via HTML email.
 
 🌟 Features
