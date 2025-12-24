@@ -17,11 +17,17 @@ Task Scheduling: Includes a scheduler to automate daily and quarterly reporting 
 Plaintext
 
 ├── agent.py               # AutoGen agent configurations
+
 ├── report_generator.py    # Main logic for compiling reports
+
 ├── vector_db.py           # Vector database management (ChromaDB)
+
 ├── visualizations.py      # Matplotlib/Seaborn logic for charts
+
 ├── config.py              # Environment and API configurations
+
 ├── email_sender_html.py   # SMTP/Email logic
+
 └── requirements.txt       # Project dependencies
 
 🚀 Getting Started
