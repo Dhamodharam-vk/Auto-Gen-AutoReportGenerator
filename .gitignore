@@ -1,0 +1,21 @@
+# Environments
+.env
+venv/
+env/
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Data and Databases
+*.sqlite3
+chroma_db/
+data/
+
+# Editor settings
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
