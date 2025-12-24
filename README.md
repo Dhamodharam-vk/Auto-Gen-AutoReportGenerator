@@ -23,6 +23,7 @@ Plaintext
 ├── config.py              # Environment and API configurations
 ├── email_sender_html.py   # SMTP/Email logic
 └── requirements.txt       # Project dependencies
+
 🚀 Getting Started
 1. Prerequisites
 Python 3.10+
